@@ -1,0 +1,11 @@
+
+Pinging elzero.org [104.26.5.86] with 32 bytes of data:
+Reply from 104.26.5.86: bytes=32 time=47ms TTL=55
+Reply from 104.26.5.86: bytes=32 time=49ms TTL=55
+Reply from 104.26.5.86: bytes=32 time=47ms TTL=55
+Reply from 104.26.5.86: bytes=32 time=46ms TTL=55
+
+Ping statistics for 104.26.5.86:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 46ms, Maximum = 49ms, Average = 47ms
